@@ -79,6 +79,7 @@ export const InterceptTextBox: React.SFC<InterceptTextBox> = props => {
             <option value="application/json">application/json</option>
             <option value="text/html">text/html</option>
             <option value="text/csv">text/csv</option>
+            <option value="text/javascript">text/javascript</option>
             <option value="application/javascript">application/javascript</option>
             <option value="text/css">text/css</option>
             <option value="text/plain">text/plain</option>
